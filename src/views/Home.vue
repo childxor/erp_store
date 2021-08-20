@@ -1,9 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <img alt="Vue logo" src="../assets/ip.jpg" width="30%"> <br>
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
   </div>
-</template>
+</template> 
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
